@@ -1,0 +1,15 @@
+[submodule "Nbody_CUDA"]
+	path = Nbody_CUDA
+	url = https://github.com/Lakoc/Nbody_CUDA.git
+[submodule "Preorder_traversal_MPI"]
+	path = Preorder_traversal_MPI
+	url = https://github.com/Lakoc/Preorder_traversal_MPI.git
+[submodule "Odd_even_merge_sort_MPI"]
+	path = Odd_even_merge_sort_MPI
+	url = https://github.com/Lakoc/Odd_even_merge_sort_MPI.git
+[submodule "Parallel_marching_cubes_OpenMP"]
+	path = Parallel_marching_cubes_OpenMP
+	url = https://github.com/Lakoc/Parallel_marching_cubes_OpenMP.git
+[submodule "Mandelbrot_set_OpenMP"]
+	path = Mandelbrot_set_OpenMP
+	url = https://github.com/Lakoc/Mandelbrot_set_OpenMP.git
