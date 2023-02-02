@@ -13,3 +13,6 @@
 [submodule "Mandelbrot_set_OpenMP"]
 	path = Mandelbrot_set_OpenMP
 	url = https://github.com/Lakoc/Mandelbrot_set_OpenMP.git
+[submodule "PCG_NBODY_OPEN_ACC"]
+	path = PCG_NBODY_OPEN_ACC
+	url = https://github.com/Lakoc/PCG_NBODY_OPEN_ACC.git
